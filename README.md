@@ -69,6 +69,9 @@ The dataset includes the following fields:
 * 🎛️ Slicers (Date, Post Type, Category)
 
 ---
+<img width="1087" height="608" alt="DASHBOARD" src="https://github.com/user-attachments/assets/aceb1ee8-2a52-452d-93be-a86c5db93b87" />
+
+---
 
 🧮 DAX Formulas Used
 
